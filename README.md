@@ -1,7 +1,7 @@
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este é um exemplo da utilização das IAs Generativas para criação de conteúdos, para mostrar aparecem no nosso dia a dia e como elas moldarão o futuro.
 
 ## 🤖 Tecnologias Utilizadas
 - IA Generativa Gemini para roteirização;
