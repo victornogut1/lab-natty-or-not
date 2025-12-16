@@ -1,4 +1,4 @@
-# Título do Projeto Extremamente Aesthetic ;)
+# Videogame como forma de conexão entre pais e filhos
 
 ## 📒 Descrição
 Este é um exemplo da utilização das IAs Generativas para criação de conteúdos, para mostrar aparecem no nosso dia a dia e como elas moldarão o futuro.
