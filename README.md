@@ -4,23 +4,14 @@
 Breve descrição do seu projeto
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- IA Generativa Gemini para roteirização;
+- IA Generativa Veo para criação do video;
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Utilizei o Gemini para criação do roteiro, já considerando o contexto de cenário (podcast), tema e posicionamento dos participantes. Depois utilizei o Veo para criação do video, considerando o cenário e roteiro criado.
 
 ## 🚀 Resultados
 Apresente os resultados do seu projeto
-
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
 
 ## Links Interessantes
 
