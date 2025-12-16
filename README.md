@@ -11,7 +11,7 @@ Este é um exemplo da utilização das IAs Generativas para criação de conteú
 Utilizei o Gemini para criação do roteiro, já considerando o contexto de cenário (podcast), tema e posicionamento dos participantes. Depois utilizei o Veo para criação do video, considerando o cenário e roteiro criado.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Podcast(https://github.com/victornogut1/lab-natty-or-not/blob/main/podcast_ombroaombro.mp4)
 
 ## Links Interessantes
 
